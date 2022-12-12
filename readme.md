@@ -5,6 +5,7 @@ When user clicks Save book, save the book inside an array. Convert array to JSON
 
 Display the saved book title in a h3 tag above the input.
 Clear the "book_title" input.
+
 Then retrieve the JSON array from localstorage, and parse it to a js object, then print to console.
 
 The user can add as many books as they want, and they all are saved in localStorage.
