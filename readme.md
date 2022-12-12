@@ -12,5 +12,7 @@ But the h3 tag just displays the most recent book, not all the books.
 To use:
 
 JSON.stringify
+
 localStorage
+
 addEventListener
