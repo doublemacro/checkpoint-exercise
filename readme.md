@@ -1,5 +1,5 @@
 
-Create an input tag with di "book_title" and a button to Save Book.
+Create an input tag with id "book_title" and a button to Save Book.
 When user clicks Save book, save the book inside an array. Convert array to JSON, save it in localStorage.
 Also Create an h3 tag above the input tag with initial value "Book Title"
 
